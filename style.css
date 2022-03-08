@@ -27,7 +27,6 @@ html, body {
   margin: 0px;
   height: 250px;
   width: 300px;
-  box-shadow: 2px 2px 5px;
   background: #fff;
   display: block;
   /* overflow: hidden; */
@@ -471,8 +470,8 @@ left: 38%;
 /*end of unmute text*/
 
 .spotify{
-  left: 35%;
-  bottom:29px;
+  left: 30%;
+  bottom:23px;
 }
 
 .apple{

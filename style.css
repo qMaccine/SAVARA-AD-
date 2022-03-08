@@ -172,10 +172,10 @@ transition: all .2s ease-in-out;
 margin-right: 3px;
 z-index: 20;
 background: #fff;
-height: 32px;
-width: 32px;
-top: -220px;
-right: -5px;
+height: 33px;
+width: 33px;
+top: -218px;
+right: 255px;
 }
 .player__prev:hover {
   background: #D7DCE2;
